@@ -29,7 +29,7 @@ class _SplashscreenState extends State<Splashscreen> {
       }
     }); // control animation
     Timer(Duration(seconds: 3), () {
-      Get.offAndToNamed(RouteName.BottomNavBar);
+      // Get.offAndToNamed(RouteName.BottomNavBar);
     });
   }
 
