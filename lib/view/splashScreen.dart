@@ -62,7 +62,6 @@ class _SplashscreenState extends State<Splashscreen> {
               "Pix Hunt",
               style: Theme.of(context).textTheme.displayLarge,
             ),
-            // Text("Temp",style: GoogleFonts.poppins(fontSize: 20,fontWeight: FontWeight.bold),)
           ],
         ),
       ),
